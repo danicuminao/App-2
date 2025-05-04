@@ -52,4 +52,3 @@ public class Cultivo {
                " - Parcela: " + parcela.getCodigo();
     }
 }
-
